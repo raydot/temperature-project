@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/raydot/temperature-project/issues"
   },
-  "homepage": "https://github.com/raydot/temperature-project"
+  "homepage": "https://github.com/raydot/temperature-project",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
 }
