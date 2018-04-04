@@ -1,0 +1,25 @@
+{
+  "name": "temperature-project",
+  "version": "0.0.1",
+  "description": "Temperature Project from Raspberry to MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raydot/temperature-project"
+  },
+  "keywords": [
+    "node",
+    "raspberry",
+    "pi",
+    "mysql"
+  ],
+  "author": "Dave Kanter",
+  "license": "unlicense",
+  "bugs": {
+    "url": "https://github.com/raydot/temperature-project/issues"
+  },
+  "homepage": "https://github.com/raydot/temperature-project"
+}
